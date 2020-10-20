@@ -27,9 +27,9 @@ namespace Komis.Models
 
         public decimal Cena { get; set; }
 
-        public string ZdjecieURL { get; set; }
+        public string ZdjecieUrl { get; set; }
 
-        public string MiniaturkaURL { get; set; }
+        public string MiniaturkaUrl { get; set; }
 
         public bool JestSamochodemTygodnia { get; set; }
     }
